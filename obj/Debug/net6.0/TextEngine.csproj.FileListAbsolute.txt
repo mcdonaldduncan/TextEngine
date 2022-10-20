@@ -1,0 +1,17 @@
+C:\Users\dfmcd\Documents\GitHub\TextEngine\obj\Debug\net6.0\TextEngine.csproj.AssemblyReference.cache
+C:\Users\dfmcd\Documents\GitHub\TextEngine\obj\Debug\net6.0\TextEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfmcd\Documents\GitHub\TextEngine\obj\Debug\net6.0\TextEngine.AssemblyInfoInputs.cache
+C:\Users\dfmcd\Documents\GitHub\TextEngine\obj\Debug\net6.0\TextEngine.AssemblyInfo.cs
+C:\Users\dfmcd\Documents\GitHub\TextEngine\obj\Debug\net6.0\TextEngine.csproj.CoreCompileInputs.cache
+C:\Users\dfmcd\Documents\GitHub\TextEngine\bin\Debug\net6.0\TextEngine.exe
+C:\Users\dfmcd\Documents\GitHub\TextEngine\bin\Debug\net6.0\TextEngine.deps.json
+C:\Users\dfmcd\Documents\GitHub\TextEngine\bin\Debug\net6.0\TextEngine.runtimeconfig.json
+C:\Users\dfmcd\Documents\GitHub\TextEngine\bin\Debug\net6.0\TextEngine.dll
+C:\Users\dfmcd\Documents\GitHub\TextEngine\bin\Debug\net6.0\TextEngine.pdb
+C:\Users\dfmcd\Documents\GitHub\TextEngine\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dfmcd\Documents\GitHub\TextEngine\obj\Debug\net6.0\TextEngine.csproj.CopyComplete
+C:\Users\dfmcd\Documents\GitHub\TextEngine\obj\Debug\net6.0\TextEngine.dll
+C:\Users\dfmcd\Documents\GitHub\TextEngine\obj\Debug\net6.0\refint\TextEngine.dll
+C:\Users\dfmcd\Documents\GitHub\TextEngine\obj\Debug\net6.0\TextEngine.pdb
+C:\Users\dfmcd\Documents\GitHub\TextEngine\obj\Debug\net6.0\TextEngine.genruntimeconfig.cache
+C:\Users\dfmcd\Documents\GitHub\TextEngine\obj\Debug\net6.0\ref\TextEngine.dll
