@@ -45,10 +45,7 @@ namespace TextEngine.Engines
                             for (int j = 0; j < item.Value.Length; j++)
                             {
                                 sw.Write($"Field#{j + 1}={item.Value[j]}");
-                                if (!(j + 1 == item.Value.Length))
-                                {
-                                    sw.Write(" ==> ");
-                                }
+                                if (!(j + 1 == item.Value.Length)) sw.Write(" ==> ");
                             }
                             sw.WriteLine();
                             sw.WriteLine();
